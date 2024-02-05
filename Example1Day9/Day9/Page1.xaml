@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Day9.Page1"
+             Title="Page1">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            />
+
+    <StackLayout  HorizontalOptions="Center" VerticalOptions="Center" Spacing="20">
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Name:" MinimumWidthRequest="200"/>
+            <Entry Placeholder="Enter your name" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Age:" MinimumWidthRequest="200"/>
+            <Entry Placeholder="Enter your age" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Occupation:" MinimumWidthRequest="200"/>
+            <Entry Placeholder="Enter your occupation" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Address:" MinimumWidthRequest="200"/>
+            <Entry Placeholder="Enter your address" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Spacing="110">
+            <Button Text="Add User"/>
+            <Button Text="Clear"/>
+        </StackLayout>
+
+    </StackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>
+
+

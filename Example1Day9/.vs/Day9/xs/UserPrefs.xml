@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{412BC65B-3C1D-4622-9DCA-5412A3ACE4BC}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day9/Page1.xaml">
+    <Files>
+      <File FileName="Day9/Page1.xaml" Line="6" Column="26" />
+      <File FileName="Day9/User.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day9" expanded="True">
+            <Node name="Example1" expanded="True">
+              <Node name="Page1.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Example1 Xamarin.HotReload.EntryPointException.Example1.HideInfoBar="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
