@@ -32,7 +32,7 @@
             <Entry Placeholder="Enter your address" />
         </StackLayout>
 
-        <StackLayout Orientation="Horizontal" Spacing="110">
+        <StackLayout Orientation="Horizontal" Spacing="120">
             <Button Text="Add User"/>
             <Button Text="Clear"/>
         </StackLayout>
